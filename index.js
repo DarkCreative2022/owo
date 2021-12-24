@@ -76,4 +76,4 @@ client.on("message",message=>{
 	};
 });
 
-client.login("mfa.zZCSe7B1J5mZ0oGIs7sGzBYlPvUTJCaKNZiqNjnmDKv2tpNXbt6dQpcLW33qn71rNh1neUw6J45PaG5bvTvf"); // HESAP TOKENI BURAYA
+client.login(""); // HESAP TOKENI BURAYA
